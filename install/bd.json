@@ -1,0 +1,42 @@
+{
+  "anuncios": [
+    {
+      "nombre": "Bicicleta",
+      "venta": true,
+      "precio": 230.15,
+      "foto": "https://source.unsplash.com/random",
+      "tags": [ "lifestyle", "motor"]
+    }, {
+      "nombre": "iPhone 3GS",
+      "venta": false,
+      "precio": 50.00,
+      "foto": "https://source.unsplash.com/random",
+      "tags": [ "lifestyle", "mobile"]
+    } , {
+      "nombre": "colchon",
+      "venta": false,
+      "precio": 50.00,
+      "foto": "https://source.unsplash.com/random",
+      "tags": [ "hogar", "menaje"]
+    } , {
+      "nombre": "portatil",
+      "venta": true,
+      "precio": 50.00,
+      "foto": "https://source.unsplash.com/random",
+      "tags": [ "tecnologia", "geek"]
+    } , {
+      "nombre": "coche",
+      "venta": true,
+      "precio": 50.00,
+      "foto": "https://source.unsplash.com/random",
+      "tags": [ "motor", "vehiculo"]
+    }],
+
+  "usuarios": [
+    {
+      "nombre": "admin",
+      "email": "admin@nodepop.com",
+      "clave": "1234"
+    }
+  ]
+}
