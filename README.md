@@ -1,3 +1,7 @@
+[URL API] (http://ec2-34-197-91-156.compute-1.amazonaws.com)
+
+[ULR ESTÁTICO] (http://ec2-34-197-91-156.compute-1.amazonaws.com/static/static.gif)
+
 ###Arrancar proyecto
 
 * Instalar las dependencias del proyecto (**npm install**)
